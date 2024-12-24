@@ -1,4 +1,8 @@
-# Contents of the repository
+# Review Comment Sentiment Analyser
+The objective of this project is to show case your Natural language Processing  skills leveraging product review datasets to develop a  binary classification model for predicting the rating of online product based on its reviews.
+This predictive model broadly will be used as a sentiment analysis model.
+
+## Contents of the repository
 * The ipynb file
 * The train file (`train.csv`)
 * The test file (`test.csv`)
